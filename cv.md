@@ -1,4 +1,4 @@
-#  <a href="https://github.com/tr1pleace/rsschool-cv"> rsschool-cv</a>
+#  <a href="https://github.com/tr1pleace/rsschool-cv/cv"> rsschool-cv</a>
 <!DOCTYPE html>
 <html lang="en">
 <head>
