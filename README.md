@@ -1,5 +1,4 @@
-﻿# <a href="https://github.com/tr1pleace/rsschool-cv/cv"> RsSchool CV </a>
-<!DOCTYPE html>
+﻿# <a href="https://tr1pleace.github.io/rsschool-cv/"> RsSchool CV </a>
 <html lang="en">
 <head>
 <link rel="stylesheet" href="css/README.css" />
@@ -7,7 +6,6 @@
 </head>
 <body>
 <h1>Ilya Reinikov</h1>
-<!DOCTYPE html>
 <html lang="ru">
 <header>
 <link rel="stylesheet" href="css/README.css" />
